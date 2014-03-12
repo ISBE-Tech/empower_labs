@@ -1,0 +1,753 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"si",
+				"sidebar"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"slider",
+				"sliderHeight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"backgound",
+				"background-size"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"de",
+				"details-slider"
+			],
+			[
+				"autoSCaleS",
+				"autoScaleSliderWidth"
+			],
+			[
+				"aut",
+				"autoScaleSliderWidth"
+			],
+			[
+				"det",
+				"details-content"
+			],
+			[
+				"detail",
+				"details-slider"
+			],
+			[
+				"royal",
+				"royalSlider"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"listst",
+				"list-style-type"
+			],
+			[
+				"ps",
+				"pos-r	position: relative;"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"m",
+				"module"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"div",
+				"divider3"
+			],
+			[
+				"recent",
+				"recentposts"
+			],
+			[
+				"current",
+				"current_month"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"recen",
+				"recent"
+			],
+			[
+				"rece",
+				"recent"
+			],
+			[
+				"backgou",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"content",
+				"content-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border-b",
+				"border-bottom-style"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"q",
+				"quantityRange"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"y",
+				"y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/index.php",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/css/main.css",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/navbar.php",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Cyrus/Desktop/TODO.html",
+		"/C/Users/Cyrus/Google Drive/EA1/Lab Project/caf_732 part1",
+		"/C/Users/Cyrus/Downloads/Lab_project_part1.txt",
+		"/C/Users/Cyrus/Downloads/Lab_project_part2.txt",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shapur/contact.html",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shapur/css/style.css",
+		"/C/Users/Cyrus/Dropbox/Code/Mandelbrot Set (py)/interactive_set.py",
+		"/C/Users/Cyrus/Dropbox/Code/Mandelbrot Set (py)/functions.py",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-2/classes.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-2/tour.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/contact.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Cyrus/Dropbox/htdocs/Proteus/template_files/blog.html",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/tour.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/home.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-2/blog.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/blog.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/single.php",
+		"/C/Users/Cyrus/AppData/Local/Temp/fz3temp-1/team.php",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shapur/jewelry.html",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shervin/ProcessWire/site/config.php",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shapur/timepieces.html",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shapur/index.html",
+		"/C/Users/Cyrus/AppData/Local/IW4M/dedi.bat.txt",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shapur/test.html",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shervin/css/stickyfooter.css",
+		"/C/Users/Cyrus/AppData/Roaming/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Cyrus/Dropbox/htdocs/Shervin/details.html",
+		"/C/xampp/htdocs/Shervin/index.html",
+		"/C/xampp/htdocs/Shervin/css/style.css",
+		"/C/xampp/htdocs/smf/wp-content/themes/smf/header.php",
+		"/C/xampp/htdocs/smf/wp-content/themes/smf/functions.php",
+		"/C/xampp/htdocs/smf/wp-content/themes/smf/style.css",
+		"/C/Users/Cyrus/Dropbox/s&c gecko dev/css/style.css",
+		"/C/Users/Cyrus/Dropbox/s&c gecko dev/index.html",
+		"/C/xampp/htdocs/s&c gecko dev/css/style.css",
+		"/C/xampp/htdocs/smf/wp-content/themes/smf/home.php",
+		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/CyrusForbes/portfolio.php",
+		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/CyrusForbes/header.php",
+		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/CyrusForbes/footer.php",
+		"/C/xampp/htdocs/smf/wp-content/themes/smf/css/style.css",
+		"/C/xampp/htdocs/smf/wp-content/themes/smf/index.php",
+		"/C/xampp/htdocs/smf/sublime/css/style.css",
+		"/C/xampp/htdocs/smf/sublime/index.html",
+		"/C/xampp/htdocs/s&c gecko dev/index.html",
+		"/C/xampp/htdocs/smf/smf/css/style.css",
+		"/C/xampp/htdocs/smf/smf/index.html",
+		"/C/xampp/htdocs/smf/test.py",
+		"/C/xampp/htdocs/smf/css/style.css",
+		"/C/Users/Cyrus/AppData/Roaming/Sublime Text 2/Packages/Browser Refresh/README.md",
+		"/C/Users/Cyrus/AppData/Roaming/Sublime Text 2/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/Cyrus/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/xampp/htdocs/S&C Digital 3/css/main.css",
+		"/C/xampp/htdocs/S&C Digital 3/index.html",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/team.php",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/home.php",
+		"/C/xampp/htdocs/Proteus/template_files/team.html",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/header.php",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/style.css",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/files/css/styles.css",
+		"/C/xampp/htdocs/S&C Digital 3/js/jsImgSlider/themes/1/js-image-slider.css",
+		"/C/Users/Cyrus/Dropbox/CODE/WEBSITES/S&C Digital 3/index.html",
+		"/C/Users/Cyrus/Dropbox/CODE/WEBSITES/S&C Digital 3/css/main.css",
+		"/C/Users/Cyrus/Dropbox/CODE/WEBSITES/S&C Digital 3/js/jsImgSlider/demo1.html",
+		"/C/Users/Cyrus/Dropbox/CODE/WEBSITES/S&C Digital 3/js/jsImgSlider/demo4.html",
+		"/C/Users/Cyrus/Dropbox/CODE/WEBSITES/S&C Digital 3/js/jsImgSlider/themes/1/js-image-slider.css",
+		"/C/Users/Cyrus/Dropbox/CODE/WEBSITES/S&C Digital 3/js/jsImgSlider/themes/1/js-image-slider.js",
+		"/C/Users/Cyrus/Desktop/wow/index.html",
+		"/C/Users/Cyrus/Dropbox/CODE/WEBSITES/S&C Digital 3/index.html.bak01",
+		"/C/xampp/htdocs/tutoring/addTutor.php",
+		"/C/xampp/htdocs/tutoring/results.php",
+		"/C/xampp/htdocs/tutoring/search.php",
+		"/C/xampp/htdocs/tutoring/css/main.css",
+		"/C/xampp/htdocs/tutoring/register.php",
+		"/C/xampp/htdocs/tutoring/index.php",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/files/js/scripts.js",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/blog.php",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/footer.php",
+		"/C/xampp/htdocs/Nicky/index.php",
+		"/C/xampp/htdocs/Nicky/css/main.css",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/files/webicons/fc-webicons.css",
+		"/C/Users/Cyrus/Dropbox/CODE/Pong (py)/Pong/classes.py",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/contact.php",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/php/contact_send.php",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/files/webicons-master/fc-webicons.css",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/files/js/app.js",
+		"/C/xampp/htdocs/ThemeForest/Proteus/template_files/index.html",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/files/css/foundation.min.css",
+		"/C/xampp/htdocs/ThemeForest/Proteus/template_files/single_post.html",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/comments.php",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/functions.php",
+		"/C/xampp/htdocs/ThemeForest/wp-comments-post.php",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/single.php",
+		"/C/xampp/htdocs/ThemeForest/Proteus/template_files/blog.html",
+		"/C/xampp/htdocs/ThemeForest/Proteus/template_files/typography.html",
+		"/C/xampp/htdocs/ThemeForest/Proteus/template_files/portfolio_single.html",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/portfolio.php",
+		"/D/Files/rsAlc.py",
+		"/C/xampp/htdocs/ThemeForest/Proteus/template_files/files/css/colors.css",
+		"/C/xampp/htdocs/ThemeForest/Proteus/template_files/php/contact_send.php",
+		"/C/xampp/htdocs/ThemeForest/Proteus/template_files/contact.html",
+		"/C/xampp/htdocs/ThemeForest/wp-content/themes/Proteus/index.php",
+		"/C/xampp/htdocs/ThemeForest/wp-config.php",
+		"/C/Users/Cyrus/Dropbox/CODE/Snake (py)/classes.py",
+		"/C/Users/Cyrus/Dropbox/CODE/Snake (py)/Snake.py",
+		"/C/Users/Cyrus/Desktop/Mandelbrot_Set/interactive_set.py",
+		"/C/Users/Cyrus/Desktop/main.py",
+		"/C/Users/Cyrus/Desktop/.hosts",
+		"/C/xampp/htdocs/CyrusForbes/css/main.css",
+		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/CyrusForbes/functions.php",
+		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/CyrusForbes/home.php",
+		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/twentytwelve/footer.php",
+		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/twentytwelve/header.php",
+		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/twentytwelve/functions.php",
+		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/index.php",
+		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/home.php",
+		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/footer.php",
+		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/header.php",
+		"/C/Users/Cyrus/Downloads/zoomfolio-wordpress-portfolio-plugin-licence.txt",
+		"/C/Users/Cyrus/AppData/Local/Temp/Rar$EXa0.192/dzs-portfolio/readme/index.html",
+		"/C/Users/Cyrus/AppData/Local/Temp/Rar$DIa0.365/GPL.txt",
+		"/C/Users/Cyrus/AppData/Local/Temp/Rar$DIa0.573/README_License.txt",
+		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/fontAwesome/css/font-awesome.css",
+		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/styles.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"50px",
+			"260px",
+			"',\n",
+			"400",
+			"151515",
+			";\n",
+			"            \n",
+			";\n",
+			"  \n",
+			";\n",
+			"		\n",
+			"20px",
+			">\n",
+			"$tutor->firstName = $firstName;",
+			"	\n",
+			"span6",
+			"scroll to",
+			"facebook",
+			"      \n",
+			"if (isset($_GET['cat'])){\n                echo \"&cat=\" . $cat;\n              }",
+			"=>\n",
+			"button",
+			"medium",
+			"but",
+			"med",
+			"15",
+			"'author'",
+			"11",
+			"files/",
+			"files",
+			"data-thu",
+			"href",
+			"src",
+			"img",
+			"blog-po",
+			"container",
+			"1px",
+			"Nigger",
+			"Arrows",
+			"Item",
+			"group",
+			".content",
+			";\n",
+			">\n",
+			":;",
+			"Continue",
+			"20px",
+			";\n",
+			"width",
+			"div",
+			",\n",
+			").",
+			"auto",
+			"warp",
+			"400"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/index.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/css/main.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/navbar.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Cyrus/Dropbox/htdocs/Shervin/Sublime Project/Shervin.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true
+}
