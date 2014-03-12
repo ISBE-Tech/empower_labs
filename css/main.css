@@ -15,7 +15,6 @@ div.body-container{
 /* ===== HEADER ===== */
 
 div.header{
-	width: 1107px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -44,7 +43,7 @@ div.header div.nav-bar{
 	width: 300px;
 	position: relative;
 	top: -30px;
-	left: -32px;
+	left: -15px;
 }
 
 div.header div.nav-bar ul{
