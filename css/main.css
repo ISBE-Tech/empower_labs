@@ -13,16 +13,22 @@ div.body-container{
 	margin-right: auto;
 }
 /* ===== HEADER ===== */
-div.header{
+div.header-container{
 	width: 100%;
-	height: 101px;
+}
+
+div.header{
+	width: 1107px;
+	height: 108px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 div.header h1{
 	color: #222;
 	margin-top: 0px;
 	margin-bottom: 5px;
-	padding-top: 10px;
+	padding-top: 16px;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
 	font-size: 40px;
@@ -42,6 +48,7 @@ div.header div.nav-bar{
 	width: 300px;
 	position: relative;
 	top: -30px;
+	left: -32px;
 }
 
 div.header div.nav-bar ul{
@@ -107,13 +114,87 @@ div.body-content{
 }
 
 div.body-content div.top-image{
-	background: url("../img/home-img.jpg");
+	background: url("../img/home-img2.jpg");
 	background-size: cover;
-	width: 100%;
-	height: 400px;
+	background-position: center center;
+	width: 1170px;
+	height: 250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div.body-content div.top-image h1{
+	color: #fff;
+	text-align: center;
+	text-indent: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 45px;
+	line-height: 60px;
+	margin-top: 70px;
+
+	text-shadow: -2px 2px 2px rgba(0,0,0,.4);
 }
 
 div.body-content div.metro-items{
 	width: 100%;
+	height: 300px;
 	padding: 0;
+	margin: 0;
+}
+
+div.body-content div.metro-items div.row div.col-md-4{
+	margin: 0;
+	padding: 0;
+}
+
+/* ===== METRO-BLOCKS ===== */
+a.metro-block{
+	display: block;
+	width: 100%;
+	height: 250px;
+	color: #fff;
+}
+
+a.metro-block:hover{
+	text-decoration: none;
+	color: #fff;
+}
+
+a.metro-block:hover h1{
+	padding-top: 50px;
+}
+
+a.metro-block h1{
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	padding-left: 20px;
+	padding-top: 130px;
+	padding-bottom: 10px;
+	transition: padding-top .5s;
+}
+
+a.metro-block p{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	padding-left: 20px;	
+	font-size: 18px;
+	margin-left: 1px;
+}
+
+a.metro-block p.hidden-text{
+	margin-top: 60px;
+}
+
+a.metro-block.blue{
+	background-color: #00b3d5;
+}
+
+a.metro-block.purple{
+	background-color: #8c20ba;
+}
+
+a.metro-block.orange{
+	background-color: #ffb200;
 }

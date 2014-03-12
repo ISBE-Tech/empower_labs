@@ -14,4 +14,5 @@
 <!-- Bootstrap -->
 <link href="frameworks/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <!-- Fonts -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300|Oswald:400,700,300' rel='stylesheet' type='text/css'>
