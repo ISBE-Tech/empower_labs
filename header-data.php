@@ -12,4 +12,6 @@
 <!-- Stylesheets -->
 <link href="css/main.css" rel="stylesheet">
 <!-- Bootstrap -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="frameworks/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300|Oswald:400,700,300' rel='stylesheet' type='text/css'>
