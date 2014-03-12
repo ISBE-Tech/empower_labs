@@ -12,7 +12,7 @@
 	<div class="body-content">
 		<div class="top-image"></div>
 		<div class="metro-items">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-4">
 						<a href="#" class="metro-block blue">
