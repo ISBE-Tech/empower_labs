@@ -42,8 +42,13 @@ div.header h2{
 div.header div.nav-bar{
 	width: 300px;
 	position: relative;
-	top: -30px;
 	left: -15px;
+}
+
+@media (min-width: 768px) {
+  div.header div.nav-bar{
+  	top: -30px;
+  }
 }
 
 div.header div.nav-bar ul{
@@ -111,7 +116,12 @@ div.header div.nav-bar ul li a.active#blog{
 div.body-content{
 	width: 100%;
 	position: relative;
-	top: -30px;
+}
+
+@media (min-width: 768px) {
+  div.body-content{
+  	top: -30px;
+  }
 }
 
 div.body-content div.top-image{
