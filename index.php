@@ -10,9 +10,9 @@
 	<?php include 'header.php' ?>
 
 	<div class="body-content">
-		<div class="top-image"></div>
-		<div class="metro-items">
-			<div class="container">
+		<div class="top-image hidden-xs"></div>
+		<div class="container">
+			<div class="metro-items">
 				<div class="row">
 					<div class="col-md-4">
 						<a href="#" class="metro-block blue">
