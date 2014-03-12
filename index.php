@@ -10,8 +10,12 @@
 	<?php include 'header.php' ?>
 
 	<div class="body-content">
-		<div class="top-image hidden-xs"></div>
 		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="top-image hidden-xs"></div>
+				</div>
+			</div>
 			<div class="metro-items">
 				<div class="row">
 					<div class="col-md-4">

@@ -4,20 +4,56 @@
 		"selected_items":
 		[
 			[
-				"pad",
-				"padding-bottom"
-			],
-			[
 				"marg",
 				"margin-top"
 			],
 			[
-				"font",
-				"font-weight"
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
 			],
 			[
 				"text",
-				"text-align"
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"me",
+				"metro-items"
+			],
+			[
+				"body",
+				"body-content"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"top",
+				"top-image"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-top"
 			],
 			[
 				"margin",
@@ -44,16 +80,8 @@
 				"pos-r	position: relative;"
 			],
 			[
-				"mar",
-				"margin-bottom"
-			],
-			[
 				"paddin",
 				"padding-top"
-			],
-			[
-				"back",
-				"background-color"
 			],
 			[
 				"op",
@@ -110,10 +138,6 @@
 			[
 				"wd",
 				"width"
-			],
-			[
-				"ba",
-				"background-repeat"
 			],
 			[
 				"backgound",
@@ -212,10 +236,6 @@
 				"font-family"
 			],
 			[
-				"padding",
-				"padding-right"
-			],
-			[
 				"error",
 				"errorMessage"
 			],
@@ -296,35 +316,37 @@
 	"buffers":
 	[
 		{
-			"contents": "",
-			"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/index.php",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "/C/xampp/htdocs/empower_labs/index.php",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1290,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "",
-			"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/css/main.css",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "/C/xampp/htdocs/empower_labs/header-data.php",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 651,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "",
-			"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/navbar.php",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "/C/xampp/htdocs/empower_labs/header.php",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 455,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "body{\n	margin: 0;\n	width: 100%;\n}\n\ndiv.page-container{\n	width: 100%;\n}\n\ndiv.body-container{\n	width: 95%;\n	margin-left: auto;\n	margin-right: auto;\n}\n/* ===== HEADER ===== */\n\ndiv.header{\n	margin-left: auto;\n	margin-right: auto;\n}\n\ndiv.header h1{\n	color: #222;\n	margin-top: 0px;\n	margin-bottom: 5px;\n	padding-top: 16px;\n	text-align: center;\n	font-family: 'Oswald', sans-serif;\n	font-size: 40px;\n}\n\ndiv.header h2{\n	text-align: center;\n	color: #222;\n	margin-top: 0px;\n	font-family: 'Oswald', sans-serif;\n	font-size: 20px;\n	font-weight: 300;\n}\n\n/* ----- NAVBAR ----- */\ndiv.header div.nav-bar{\n	width: 300px;\n	position: relative;\n	left: -15px;\n}\n\n@media (min-width: 768px) {\n  div.header div.nav-bar{\n  	top: -30px;\n  }\n}\n\ndiv.header div.nav-bar ul{\n	list-style-type:none;\n	margin:0;\n	padding:0;\n}\n\ndiv.header div.nav-bar ul li{\n	display: inline;\n	float: left;\n}\n\ndiv.header div.nav-bar ul li a{\n	display: block;\n	padding-top: 8px;\n	padding-bottom: 8px;\n	padding-right: 10px;\n	padding-left: 10px;\n	font-family: 'Oswald', sans-serif;\n	font-size: 18px;\n}\n\ndiv.header div.nav-bar ul li a#home{\n	color: #00b3d5;\n}\n\ndiv.header div.nav-bar ul li a#about{\n	color: #8c20ba;\n}\n\ndiv.header div.nav-bar ul li a#events{\n	color: #ffa600;\n}\n\ndiv.header div.nav-bar ul li a#blog{\n	color: #000;\n}\n\ndiv.header div.nav-bar ul li a.active{\n	color: #fff !important;\n}\n\ndiv.header div.nav-bar ul li a.active:hover{\n	text-decoration: none;\n}\n\ndiv.header div.nav-bar ul li a.active#home{\n	background-color: #00b3d5;\n}\n\ndiv.header div.nav-bar ul li a.active#about{\n	background-color: #8c20ba;\n}\n\ndiv.header div.nav-bar ul li a.active#events{\n	background-color: #ffa600;\n}\n\ndiv.header div.nav-bar ul li a.active#blog{\n	background-color: #000;\n}\n\n/* ===== BODY-CONTENT ===== */\ndiv.body-content{\n	width: 100%;\n	position: relative;\n}\n\n@media (min-width: 768px) {\n  div.body-content{\n  	top: -30px;\n  }\n}\n\n@media (max-width: 768px) {\n  div.body-content{\n  	margin-top: -1px;\n }\n}\n\ndiv.body-content div.col-md-12{\n	padding: 0;\n}\n\ndiv.body-content div.top-image{\n	background: url(\"../img/home-img2.jpg\");\n	background-size: cover;\n	background-position: center center;\n	width: 100%;\n	height: 250px;\n	margin-right: auto;\n	margin-left: auto;\n}\n\ndiv.body-content div.top-image h1{\n	color: #fff;\n	text-align: center;\n	text-indent: 0;\n	font-family: 'Open Sans', sans-serif;\n	font-weight: 300;\n	font-size: 45px;\n	line-height: 60px;\n	margin-top: 70px;\n\n	text-shadow: -2px 2px 2px rgba(0,0,0,.4);\n}\n\ndiv.body-content div.metro-items{\n	width: 100%;\n	height: 300px;\n	padding: 0;\n	margin: 0;\n}\n\ndiv.body-content div.metro-items div.row div.col-md-4{\n	margin: 0;\n	padding: 0;\n}\n\n/* ===== METRO-BLOCKS ===== */\na.metro-block{\n	display: block;\n	width: 100%;\n	height: 250px;\n	color: #fff;\n}\n\na.metro-block:hover{\n	text-decoration: none;\n	color: #fff;\n}\n\na.metro-block:hover h1{\n	padding-top: 50px;\n}\n\na.metro-block h1{\n	margin: 0;\n	font-family: 'Open Sans', sans-serif;\n	font-weight: 300;\n	padding-left: 20px;\n	padding-top: 160px;\n	padding-bottom: 10px;\n	transition: padding-top .3s;\n}\n\na.metro-block p{\n	font-family: 'Open Sans', sans-serif;\n	font-weight: 300;\n	padding-left: 20px;	\n	font-size: 18px;\n	margin-left: 1px;\n}\n\na.metro-block p.hidden-text{\n	margin-top: 60px;\n}\n\na.metro-block.blue{\n	background-color: #00b3d5;\n}\n\na.metro-block.purple{\n	background-color: #8c20ba;\n}\n\na.metro-block.orange{\n	background-color: #ffb200;\n}",
+			"file": "/C/xampp/htdocs/empower_labs/css/main.css",
+			"file_size": 3599,
+			"file_write_time": 130390785112325841,
+			"settings":
+			{
+				"buffer_size": 3378,
 				"line_ending": "Windows"
 			}
 		}
@@ -381,6 +403,14 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/empower_labs/index.php",
+		"/C/Users/Cyrus/Documents/GitHub/empower_labs/dev/header.php",
+		"/C/Users/Cyrus/Documents/GitHub/empower_labs/dev/footer-data.php",
+		"/C/Users/Cyrus/Documents/GitHub/empower_labs/dev/header-data.php",
+		"/C/Users/Cyrus/Documents/GitHub/empower_labs/dev/index.php",
+		"/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/css/main.css",
+		"/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/navbar.php",
+		"/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/index.php",
 		"/C/Users/Cyrus/Desktop/TODO.html",
 		"/C/Users/Cyrus/Google Drive/EA1/Lab Project/caf_732 part1",
 		"/C/Users/Cyrus/Downloads/Lab_project_part1.txt",
@@ -500,15 +530,7 @@
 		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/twentytwelve/header.php",
 		"/C/xampp/htdocs/CyrusForbesWP/wp-content/themes/twentytwelve/functions.php",
 		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/index.php",
-		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/home.php",
-		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/footer.php",
-		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/header.php",
-		"/C/Users/Cyrus/Downloads/zoomfolio-wordpress-portfolio-plugin-licence.txt",
-		"/C/Users/Cyrus/AppData/Local/Temp/Rar$EXa0.192/dzs-portfolio/readme/index.html",
-		"/C/Users/Cyrus/AppData/Local/Temp/Rar$DIa0.365/GPL.txt",
-		"/C/Users/Cyrus/AppData/Local/Temp/Rar$DIa0.573/README_License.txt",
-		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/fontAwesome/css/font-awesome.css",
-		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/styles.css"
+		"/C/xampp/htdocs/ShahnazMozaffarianForbes/wp-content/themes/shahnaz/home.php"
 	],
 	"find":
 	{
@@ -526,6 +548,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"container",
+			"row-fluid",
+			"row",
+			"row-fluid",
+			"row",
+			"row-fluid",
 			"50px",
 			"260px",
 			"',\n",
@@ -603,52 +631,67 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/index.php",
+					"file": "/C/xampp/htdocs/empower_labs/index.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1290,
 						"regions":
 						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										112,
+										140
+									]
+								],
+								"scope": "variable.parameter"
+							}
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								530,
+								530
 							]
 						],
 						"settings":
 						{
 							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 37.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/css/main.css",
+					"file": "/C/xampp/htdocs/empower_labs/header-data.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 651,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								651,
+								651
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
-						"translation.x": 0.0,
+						"translation.x": 149.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -656,27 +699,61 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/Cyrus/Dropbox/ISBE_Tech/Empower Labs Website/dev/navbar.php",
+					"file": "/C/xampp/htdocs/empower_labs/header.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 455,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								176,
+								176
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/empower_labs/css/main.css",
+					"settings":
+					{
+						"buffer_size": 3378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1942,
+								1942
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1970.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -701,11 +778,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.486246418338,
 			1.0
 		],
 		"rows":
