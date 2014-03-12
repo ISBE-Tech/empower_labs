@@ -13,13 +13,9 @@ div.body-container{
 	margin-right: auto;
 }
 /* ===== HEADER ===== */
-div.header-container{
-	width: 100%;
-}
 
 div.header{
 	width: 1107px;
-	height: 108px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -115,6 +111,8 @@ div.header div.nav-bar ul li a.active#blog{
 /* ===== BODY-CONTENT ===== */
 div.body-content{
 	width: 100%;
+	position: relative;
+	top: -30px;
 }
 
 div.body-content div.top-image{
