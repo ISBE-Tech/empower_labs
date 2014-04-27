@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<div class="header">
-				<h1>EMPOWER LABS</h1>
+				<h1>ISBE Technology</h1>
 				<h2>technology for empowerment</h2>
 				<div class="nav-bar">
 					<ul>
