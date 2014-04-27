@@ -4,6 +4,8 @@ README.txt
 
 TO-Dos:
 
+PLEASE BRANCH WHEN YOU CODE, push your branch to origin with the following command: 'git push origin branch-name'
+
 Designers: Cyrus, Diane, Ben
 
 Design the following pages:
